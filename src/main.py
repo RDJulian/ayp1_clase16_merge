@@ -1,9 +1,9 @@
-print("Hello")
+from merge import merge
 
-print("La abundancia es lo mismo que la insuficiencia")
 
-print("Argentina Campeon Mundial 2026")
+def main() -> None:
+    merge("padrones1.txt", "padrones2.txt", "alumnos.txt")
 
-print("Dale que aprendemos Git Hub")
 
-print("Esto esta en una BRANCH")
+if __name__ == "__main__":
+    main()
