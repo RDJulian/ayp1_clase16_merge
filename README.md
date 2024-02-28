@@ -1,6 +1,6 @@
 # Clase 16: Merge
 
-[Enlace a la presentación de git](https://docs.google.com/presentation/d/1CtZbZoUq2dClj6cJEeraomUKbXd-yqe_JEmjrMYRtr8/edit?usp=sharing)
+[Enlace a la presentación de git](https://docs.google.com/presentation/d/1XZF4_X7avzln-3k-zgRcmRW8CXkbf4hKztfK7ubs1Go/edit?usp=sharing)
 
 Ambos algoritmos se pueden resumir en el siguiente pseudocódigo:
 
